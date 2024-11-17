@@ -1,4 +1,4 @@
-# 👋 Oi, este é o GitHub da Hackers Hive!
+# Oi, este é o GitHub da Hackers Hive🐝!
 
 **Hackers Hive Club é mais do que uma plataforma, é um movimento.**  
 Junte-se e comece a jornada no mundo da cibersegurança! 🔒
